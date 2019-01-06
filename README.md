@@ -1,5 +1,4 @@
-#
-Toolbook-PrayerToGod - Current Version: 1.0.0
+# Toolbook-PrayerToGod - Current Version: 1.0.0
 
 Apple iTunes Store Page: https://itunes.apple.com/us/app/id1448620333
 
